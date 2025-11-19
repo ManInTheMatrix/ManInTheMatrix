@@ -6,11 +6,12 @@
 - XR Experiences (AR/VR)   
 
 🎮 **Top Projects:**  
--  [RummyStars](https://play.google.com/store/apps/details?id=com.bbumgames.rummystars)
--  [HumanAnotomy](https://play.google.com/store/apps/details?id=com.rendernet.humanmale)
--  [VR Application](https://play.google.com/store/apps/details?id=com.rendernet.ottoengine)
--  [AR Application](https://play.google.com/store/apps/details?id=com.indies.behind_the_wall&hl=en)
--  [Augment](https://play.google.com/store/apps/details?id=com.ar.augment&hl=en)
+-  [Gin Rummy Stars](https://play.google.com/store/apps/details?id=com.bbumgames.rummystars) | 5M+ downloads
+-  [HumanAnotomy](https://play.google.com/store/apps/details?id=com.rendernet.humanmale) | 5M+ downloads
+-  [VR Application](https://play.google.com/store/apps/details?id=com.rendernet.ottoengine) | 5M+ downloads
+-  [Augment](https://play.google.com/store/apps/details?id=com.ar.augment&hl=en) | 1M+ downloads
+-  [AR Application](https://play.google.com/store/apps/details?id=com.indies.behind_the_wall&hl=en) | 1K+ downloads
+
 
 🚀 **Currently Exploring:**  
 - Blockchain & Crypto Integration in Games  
