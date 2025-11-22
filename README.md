@@ -20,9 +20,12 @@
 YouTube – [Project Demos](https://www.youtube.com/@workprofile634)
 LeetCode – [Problem-Solving Skills](https://leetcode.com/u/amansahu374/)
 
-💡 **What I Bring:**  
-- Strong foundation in **C#, C++**  
-- Expertise in **3D Modeling (Blender)** & UI/UX (Figma)   
+
+💡 **What I Bring (Architectural Focus):**  
+- Expertise in **Unity3D** and complex C# systems design (Architecture, State Machines)
+- Deep proficiency in **C++** for performance-critical engines and custom components
+- Experience integrating high-value systems (AI/GPT, IoT, Multiplayer Networking)
+- Expertise in rapid prototyping and visualization (Blender, Figma)
 
 📫 **Reach Me At:**  
 **amansahu374@gmail.com**
